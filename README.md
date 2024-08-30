@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsmunde&label=Profile%20views&color=0e75b6&style=flat" alt="gsmunde" /> </p>
-<img src="https://eranstiller.com/wp-content/uploads/2023/09/Software-Engineer-Skills-Becoming-a-Software-Developer.png" alt="gsmunde" />
+<img w='100px' h='100px' align="left" src="https://eranstiller.com/wp-content/uploads/2023/09/Software-Engineer-Skills-Becoming-a-Software-Developer.png" alt="gsmunde" />
 - 🌱 I’m currently learning **Back-End Development, DSA**
 
 - 👯 I’m looking to collaborate on **source**
